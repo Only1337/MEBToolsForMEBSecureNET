@@ -1,5 +1,5 @@
 # MEBToolsForMEBSecureNET
-MEB Tools for MEB Secure NET
+MEB Tools for MEB Secure NET (For Windows)
 
 Resources:
 
